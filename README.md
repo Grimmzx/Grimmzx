@@ -1,7 +1,7 @@
 
 
 <div>
-  <h2>¡Hola! ✨ </h2>
+  <h2>¡Hola! 👀 </h2>
   <p>¡Bienvenidos a mi perfil de GitHub! Soy desarrollador Web FrontEnd ,Aunque en constante aprendizaje para lograr ser FulLStack apasionado por crear soluciones web atractivas y funcionales.</p>
  
   <h3>🚀 Tecnologías y Herramientas</h3>
