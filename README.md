@@ -4,7 +4,7 @@
   <h2>¡Hola! 👀 </h2>
   <p>¡Bienvenidos a mi perfil de GitHub! Soy desarrollador Web FrontEnd ,Aunque en constante aprendizaje para lograr ser FulLStack apasionado por crear soluciones web atractivas y funcionales.</p>
  
-  <h3>🚀 Tecnologías y Herramientas</h3>
+  <h3>🛸 Tecnologías y Herramientas 🛸</h3>
   
 [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?&style=width:90px;height:18px;&logo=javascript&logoColor=black)]()
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=width:90px;height:18px;&logo=css3&logoColor=white)]()
