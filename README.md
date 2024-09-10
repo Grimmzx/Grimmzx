@@ -7,7 +7,7 @@
     <ul>
         <li>  📖 Un gusto especial por el aprendizaje continuo </li>
         <li>  💻 En proceso de aprender angular</li>
-        <li>  🎧 Estudie ingenieria en sonido</li>
+        <li>  🎧 Tambien soy Ingeniero en Sonido</li>
     </ul>
 
    </div>
