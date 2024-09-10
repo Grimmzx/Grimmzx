@@ -3,6 +3,12 @@
 <div>
   <h2>¡Hola! 👀 </h2>
   <p>¡Bienvenidos a mi perfil de GitHub! Soy desarrollador Web FrontEnd ,Aunque en constante aprendizaje para lograr ser FulLStack apasionado por crear soluciones web atractivas y funcionales.</p>
+   <h3>Sobre mí</h3>
+    <ul>
+        <li>  📖 Un gusto especial por el aprendizaje continuo </li>
+        <li>  💻 En proceso de aprender angular</li>
+        <li>  🎧 Estudie ingenieria en sonido</li>
+    </ul>
 
    </div>
  <img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc3ZnJucWU3c3ozdnV5ZWJvOTA5Nmlnd3htbmc2cmQ1Mm93OWFvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scRgdAvf0Cur4RXBfG/giphy.gif" width="300" height="300">
