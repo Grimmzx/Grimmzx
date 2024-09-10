@@ -17,10 +17,13 @@
 [![NODE.JS](https://img.shields.io/badge/NODE.JS-%23339933.svg?&style=width:90px;height:18px;&logo=node.js&logoColor=white)]()
 [![REACT](https://img.shields.io/badge/REACT-%2361DAFB.svg?&style=width:90px;height:18px;&logo=react&logoColor=black)]()
 [![VITE](https://img.shields.io/badge/VITE-000000?style=width:90px;height:18px;&logo=vite&logoColor=white&color=8A2BE2)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![TAILWIND CSS](https://img.shields.io/badge/TAILWIND_CSS-%2338B2AC.svg?&style=width:120px;height:18px;&logo=tailwind-css&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=width:90px;height:18px;&logo=github&logoColor=white)]()
 [![GIT](https://img.shields.io/badge/GIT-%23F05032.svg?&style=width:90px;height:18px;&logo=git&logoColor=white)]()
 [![VISUAL STUDIO CODE](https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=width:120px;)]()
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![FIGMA](https://img.shields.io/badge/FIGMA-6555a4?style=width:90px;height:18px;&logo=figma&logoColor=white)]()
 [![Adobe Photoshop](https://img.shields.io/badge/ADOBE%20PHOTOSHOP-%2300C8FF.svg?style=width:140px;height:18px;&logo=adobe-photoshop&logoColor=white&color=1B2440)](https://www.flaticon.com/free-icon/adobe-photoshop-logo_1781?k=1680918273460&log-in=google)
   
