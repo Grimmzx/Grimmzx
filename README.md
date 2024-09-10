@@ -3,6 +3,11 @@
 <div>
   <h2>¡Hola! 👀 </h2>
   <p>¡Bienvenidos a mi perfil de GitHub! Soy desarrollador Web FrontEnd ,Aunque en constante aprendizaje para lograr ser FulLStack apasionado por crear soluciones web atractivas y funcionales.</p>
+
+   </div>
+ <img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmc3ZnJucWU3c3ozdnV5ZWJvOTA5Nmlnd3htbmc2cmQ1Mm93OWFvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scRgdAvf0Cur4RXBfG/giphy.gif" width="300" height="300">
+  <br>
+  <div align="center">
  
   <h3>🛸 Tecnologías y Herramientas 🛸</h3>
   
