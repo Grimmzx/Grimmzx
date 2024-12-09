@@ -24,7 +24,6 @@
 [![REACT](https://img.shields.io/badge/REACT-%2361DAFB.svg?&style=width:90px;height:18px;&logo=react&logoColor=black)]()
 [![VITE](https://img.shields.io/badge/VITE-000000?style=width:90px;height:18px;&logo=vite&logoColor=white&color=8A2BE2)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whitewidth:90px)]()
-[![TAILWIND CSS](https://img.shields.io/badge/TAILWIND_CSS-%2338B2AC.svg?&style=width:120px;height:18px;&logo=tailwind-css&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=width:90px;height:18px;&logo=github&logoColor=white)]()
 [![GIT](https://img.shields.io/badge/GIT-%23F05032.svg?&style=width:90px;height:18px;&logo=git&logoColor=white)]()
 [![VISUAL STUDIO CODE](https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=width:120px;)]()
