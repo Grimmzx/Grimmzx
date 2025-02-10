@@ -2,7 +2,7 @@
 
 <div>
   <h2>¡Hola! 👀 </h2>
-  <p>¡Bienvenidos a mi perfil de GitHub! Soy desarrollador Web FrontEnd ,Aunque en constante aprendizaje para lograr ser FulLStack apasionado por crear soluciones web atractivas y funcionales.</p>
+  <p>¡Bienvenidos a mi perfil de GitHub! Soy desarrollador Web FrontEnd ,Aunque en constante aprendizaje para lograr ser FulLStack.</p>
    <h3>Sobre mí</h3>
     <ul>
         <li>  📖 Un gusto especial por el aprendizaje continuo </li>
